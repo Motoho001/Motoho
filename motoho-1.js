@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", ()=>{
     const products = [
-        {name: "1 Litre", image:"1L.jpg",},
-        {name: "500 ML", image:"500ML.jpg",},
+        {name: "1 Litre", image:"1L-1.jpg",},
+        {name: "500 ML", image:"500ML-1.jpg",},
        
     ];
 
